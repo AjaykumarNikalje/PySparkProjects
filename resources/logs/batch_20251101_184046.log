@@ -1,0 +1,12 @@
+2025-11-01 18:40:46 | INFO | AirbnbPipelineLogger | Logger initialized (Level=INFO, File Logging=True)
+2025-11-01 18:40:46 | INFO | AirbnbPipelineLogger | Log File: /Users/ajaykumarnikalje/Desktop/UKStudyProjects/PythonCode/BreezeBnb_Ver1_Test/PySparkProjects/resources/logs/batch_20251101_184046.log
+2025-11-01 18:40:50 | INFO | AirbnbPipelineLogger | Starting Airbnb Metrics Pipeline
+2025-11-01 18:40:54 | INFO | AirbnbPipelineLogger | Data read successfully: 37784 records
+2025-11-01 18:40:55 | INFO | AirbnbPipelineLogger |  Successfully written CSV file: /Users/ajaykumarnikalje/Desktop/UKStudyProjects/PythonCode/BreezeBnb_Ver1_Test/PySparkProjects/resources//error/ErrorRecords
+2025-11-01 18:40:55 | INFO | AirbnbPipelineLogger | Data cleaned and prepared
+2025-11-01 18:40:55 | INFO | AirbnbPipelineLogger | Computed average price per neighbourhood per month
+2025-11-01 18:40:55 | INFO | AirbnbPipelineLogger | Identified top 10 over- and under-priced listings
+2025-11-01 18:40:56 | INFO | AirbnbPipelineLogger |  Successfully written CSV file: /Users/ajaykumarnikalje/Desktop/UKStudyProjects/PythonCode/BreezeBnb_Ver1_Test/PySparkProjects/resources/output/avgPricePerNightPerNeighborhood
+2025-11-01 18:40:57 | INFO | AirbnbPipelineLogger |  Successfully written CSV file: /Users/ajaykumarnikalje/Desktop/UKStudyProjects/PythonCode/BreezeBnb_Ver1_Test/PySparkProjects/resources/output/top10OverPricedListings
+2025-11-01 18:40:59 | INFO | AirbnbPipelineLogger |  Successfully written CSV file: /Users/ajaykumarnikalje/Desktop/UKStudyProjects/PythonCode/BreezeBnb_Ver1_Test/PySparkProjects/resources/output/top10UnderPricedListings
+2025-11-01 18:40:59 | INFO | AirbnbPipelineLogger | Pipeline completed successfully

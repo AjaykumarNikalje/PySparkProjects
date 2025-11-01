@@ -1,0 +1,17 @@
+2025-11-01 18:41:05 | INFO | AirbnbPipelineLogger | Logger initialized (Level=INFO, File Logging=True)
+2025-11-01 18:41:05 | INFO | AirbnbPipelineLogger | Log File: /Users/ajaykumarnikalje/Desktop/UKStudyProjects/PythonCode/BreezeBnb_Ver1_Test/PySparkProjects/resources/logs/batch_20251101_184105.log
+2025-11-01 18:41:08 | INFO | AirbnbPipelineLogger |  Year-Month: 2025-01
+2025-11-01 18:41:08 | INFO | AirbnbPipelineLogger |  Neighbourhood: ALL
+2025-11-01 18:41:08 | INFO | AirbnbPipelineLogger |  Starting Airbnb Analytics Job for 2025-01 ...
+2025-11-01 18:41:08 | INFO | AirbnbPipelineLogger |  Input Directory: /Users/ajaykumarnikalje/Desktop/UKStudyProjects/PythonCode/BreezeBnb_Ver1_Test/PySparkProjects/resources/output
+2025-11-01 18:41:08 | INFO | AirbnbPipelineLogger |  Filtered by month: 2025-01
+2025-11-01 18:41:10 | INFO | AirbnbPipelineLogger |  Loaded avgPricePerNightPerNeighborhood: 222 records
+2025-11-01 18:41:10 | INFO | AirbnbPipelineLogger | Initialized AnalyticsReporter
+2025-11-01 18:41:10 | INFO | AirbnbPipelineLogger |  Generated Average Price Report
+2025-11-01 18:41:11 | INFO | AirbnbPipelineLogger |  Loaded over/under-priced datasets
+2025-11-01 18:41:11 | INFO | AirbnbPipelineLogger |  Filtered by month: 2025-01
+2025-11-01 18:41:11 | INFO | AirbnbPipelineLogger |  Generated Top N Over/Under Priced Listings
+2025-11-01 18:41:11 | INFO | AirbnbPipelineLogger |  Top N Over-Priced Listings:
+2025-11-01 18:41:11 | INFO | AirbnbPipelineLogger |  Top N Under-Priced Listings:
+2025-11-01 18:41:11 | INFO | AirbnbPipelineLogger |  All reports successfully shown to user.
+2025-11-01 18:41:12 | INFO | AirbnbPipelineLogger |  Spark Session Stopped.

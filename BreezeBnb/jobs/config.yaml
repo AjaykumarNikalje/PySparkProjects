@@ -1,0 +1,25 @@
+input:
+  input_file_name: "listings"
+  input_file_extension: "csv"
+  input_path: "/Users/ajaykumarnikalje/Desktop/UKStudyProjects/PythonCode/BreezeBnb_Ver1_Test/PySparkProjects/resources/input/"
+
+
+output:
+  output_path: "/Users/ajaykumarnikalje/Desktop/UKStudyProjects/PythonCode/BreezeBnb_Ver1_Test/PySparkProjects/resources/output"
+  avg_price_filename: avgPricePerNightPerNeighborhood
+  topNOverPricedListings: top10OverPricedListings
+  topNUnderPricedListings: top10UnderPricedListings
+
+processing:
+  top_k: 10
+
+logging:
+  log_dir: "/Users/ajaykumarnikalje/Desktop/UKStudyProjects/PythonCode/BreezeBnb_Ver1_Test/PySparkProjects/resources//logs/"
+  enable_file_log: true
+  level: INFO
+  log_file_name: "batch"
+
+error:
+  error_path: "/Users/ajaykumarnikalje/Desktop/UKStudyProjects/PythonCode/BreezeBnb_Ver1_Test/PySparkProjects/resources//error/"
+  error_file_name: "ErrorRecords"
+

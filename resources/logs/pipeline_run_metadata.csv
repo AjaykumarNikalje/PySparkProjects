@@ -1,0 +1,2 @@
+final_log_file_name,timestamp,month,run_type,file_path,status,message
+batch_20251101_184046,2025-11-01 18:40:59,2025-01,adhoc,/Users/ajaykumarnikalje/Desktop/UKStudyProjects/PythonCode/BreezeBnb_Ver1_Test/PySparkProjects/resources/input/listings_2025-01.csv,SUCCESS,Pipeline completed successfully with 37784 records.
